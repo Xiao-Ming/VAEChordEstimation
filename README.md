@@ -1,5 +1,7 @@
 # Semi-supervised Neural Chord Estimation Based on a Variational Autoencoder with Latent Chord Labels and Features
 
+Links to the original paper: [IEEE](https://ieeexplore.ieee.org/document/9246301), [arxiv](https://arxiv.org/abs/2005.07091) 
+
 ## Quick navigations to some important codes
 
 If you are interested in implementation details of the presented model, you may want to see the following scripts:
